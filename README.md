@@ -7,7 +7,7 @@ This is a copy in progress of the Dino game!
 Dino game(actually Running dinosaur game) is a very simple but funny game executed in Google Chrome when you lose internet connection. 
 If you never tried it, I invite you to try it now!
 
-<img src="/home/eduardopiorini/Documentos/bootcamp-gft-dio/dino-game/assets/example.jpg" alt="game example" style="zoom:50" />
+<img src="./assets/example.jpg" alt="game example" style="zoom:50" />
 
 ## How can I try this code?
 
